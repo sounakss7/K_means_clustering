@@ -77,7 +77,7 @@ The repository includes a sample dataset for demonstration purposes. You can rep
 - Metrics to evaluate the clustering performance.
 - Insights on determining the optimal number of clusters.
 
-![Elbow Method](elbow technique.png)
+![Elbow Method](elbow.png)
 
 ---
 
