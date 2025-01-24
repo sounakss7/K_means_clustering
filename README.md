@@ -58,7 +58,7 @@ K-Means clustering is a popular unsupervised machine learning algorithm used for
    ```
 3. Adjust parameters like the number of clusters (k) and visualize the results.
 
-![Clustered Data Visualization](images/clustered_data.png)
+![Clustered Data Visualization](cluster.png)
 
 ---
 
