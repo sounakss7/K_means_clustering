@@ -21,7 +21,7 @@ Welcome to the **K-Means Clustering** repository! This project demonstrates the 
 
 K-Means clustering is a popular unsupervised machine learning algorithm used for partitioning a dataset into distinct clusters. Each cluster is represented by its centroid, and data points are assigned to the cluster with the nearest centroid. This repository provides a hands-on implementation of K-Means clustering and explores its application on real-world datasets.
 
-![K-Means Clustering Visualization](images/kmeans_visualization.png)
+![K-Means Clustering Visualization](cluster1.png)
 
 ---
 
@@ -58,7 +58,7 @@ K-Means clustering is a popular unsupervised machine learning algorithm used for
    ```
 3. Adjust parameters like the number of clusters (k) and visualize the results.
 
-![Clustered Data Visualization](cluster.png)
+![Clustered Data Visualization](cluster2.png)
 
 ---
 
